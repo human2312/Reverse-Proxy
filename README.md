@@ -15,3 +15,5 @@ eg:
 3、code里面_url 自定义到你喜欢proxy的website去畅游。
 
 4、你的服务器需要可以访问外网，你才能通过这个脚本访问到外面网站。 可以打开http://g.html48.com 浏览看看
+
+5、更多信息，请移步https://github.com/human2312/Reverse-Proxy
